@@ -1,0 +1,8 @@
+#ignore files
+auto-save-list
+\.session
+tramp
+emacs-data
+ac-comphist.dat
+abbrev_defs
+note
